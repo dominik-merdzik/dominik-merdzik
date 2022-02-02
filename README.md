@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Dominik's github stats](https://github-readme-stats.vercel.app/api?username=dominik-merdzik&show_icons=true&theme=radical)
+
 <!--
 **dominik-merdzik/dominik-merdzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
