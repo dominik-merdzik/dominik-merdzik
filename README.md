@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Dominik's github stats](https://github-readme-stats.vercel.app/api?username=dominik-merdzik&show_icons=true&theme=radical)
 
 <hr>
 <p align="center">
