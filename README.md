@@ -3,7 +3,7 @@
 
 - 🔭 ***I’m currently working on:***   Personal Portfolio website
 
-- 🌱 ***I’m currently learning:***   Learning API'S and how to integrate them efficently 
+- 🌱 ***I’m currently learning:***   API'S and how to integrate them efficently 
 
 - 📫 ***How to reach me*** -  Email: Dominiktm@outlook.com
 
