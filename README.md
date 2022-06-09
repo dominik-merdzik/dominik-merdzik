@@ -1,11 +1,16 @@
+<h1>Dominik Merdzik</h1>
+<h3>Second year student at Lakehead-Gerogain currently studying Computer Science</h3>
+
+- 🔭 ***I’m currently working on:***   Personal Portfolio website
+
+- 🌱 ***I’m currently learning:***   Learning API'S and how to integrate them efficently 
+
+- 📫 ***How to reach me*** -  Email: Dominiktm@outlook.com
 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominik-merdzik&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dominik-merdzik&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
-
-
-
 
 -----
 <!--
