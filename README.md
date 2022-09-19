@@ -5,7 +5,7 @@
 
 - 🌱 ***I’m currently learning:***   API'S and how to integrate them efficently 
 
-- 📫 ***How to reach me*** -  Email: Dominiktm@outlook.com
+- 📫 ***How to reach me*** -  Email: dominiktm@outlook.com
 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominik-merdzik&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
