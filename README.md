@@ -1,7 +1,7 @@
 <h1>Dominik Merdzik</h1>
 <h3>Third year student at Lakehead-Gerogain currently studying Computer Science</h3>
 
-- 🔭 ***I’m currently working on:***   Personal Portfolio and Client webapp
+- 🔭 ***I’m currently working on:***   Web App for a client
 
 - 🌱 ***I’m currently studying:***   Algorithms and creating API's  
 
