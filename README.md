@@ -1,9 +1,9 @@
 <h1>Dominik Merdzik</h1>
 <h3>Third year student at Lakehead-Gerogain currently studying Computer Science</h3>
 
-- 🔭 ***I’m currently working on:***   Personal Portfolio website
+- 🔭 ***I’m currently working on:***   Personal Portfolio and Client webapp
 
-- 🌱 ***I’m currently studying:***   Algorthim and creating API's  
+- 🌱 ***I’m currently studying:***   Algorithms and creating API's  
 
 - 📫 ***How to reach me*** -  Email: dominiktm@outlook.com
 
