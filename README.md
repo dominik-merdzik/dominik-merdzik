@@ -1,11 +1,11 @@
 <h1>Dominik Merdzik</h1>
-<h3>Third year student at Lakehead-Gerogain currently studying Computer Science</h3>
+<h3>Fourth year student at Lakehead University, Canada. Studying Computer Science</h3>
 
 - 🔭 ***I’m currently working on:***   Web App for a client
 
 - 🌱 ***I’m currently studying:***   Algorithms and creating API's  
 
-- 📫 ***How to reach me*** -  Email: dominiktm@outlook.com
+- 📫 ***How to reach me*** -  Email: business@dominikmerdzik.com
 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominik-merdzik&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
