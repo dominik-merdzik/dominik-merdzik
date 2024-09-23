@@ -22,13 +22,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🔭 ***I’m Currently Working on***   &nbsp;-&nbsp;Full-Stack Web Application for a Client
+🔭 ***I’m Currently Working on***   &nbsp;~&nbsp;Full-Stack Web Application for a Client
 
-💡 ***Side Project***   &nbsp;-&nbsp;My RaspberryPi's Live stats web-app <a href="https://pi.dominikmerdzik.com">pi.dominikmerdzik.com</a>
+💡 ***Side Project***   &nbsp;~&nbsp;My RaspberryPi's Live stats web-app &nbsp;<a href="https://pi.dominikmerdzik.com">pi.dominikmerdzik.com</a>
 
-🌱 ***I’m currently studying about***   &nbsp;-&nbsp;Golang and Websockets   
+🌱 ***I’m currently studying***   &nbsp;~&nbsp;Golang and vim motions  
 
-📫 ***How to reach me***  &nbsp;-&nbsp;You can reach me best by email or through any of my social media :)
+📫 ***How to reach me***  &nbsp;~&nbsp;You can reach me best by email or through any of my social media :)
 
 
 -----
