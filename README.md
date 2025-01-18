@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Dominik%20Merdzik-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:business@dominikmerdzik.com"><img src="https://img.shields.io/badge/-business@dominikmerdzik.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:dominiktmerdzik@gmail.com"><img src="https://img.shields.io/badge/-dominiktmerdzik@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/dominikmerdzik"><img src="https://img.shields.io/badge/-@dominikmerdzik-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
@@ -22,11 +22,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🔭 ***I’m Currently Working on***   &nbsp;~&nbsp;Full-Stack Web Application for a Client
+🔭 ***I’m Currently Working on***   &nbsp;~&nbsp;TUI based game in GO!
 
 💡 ***Side Project***   &nbsp;~&nbsp;My RaspberryPi's Live stats web-app &nbsp;<a href="https://pi.dominikmerdzik.com">pi.dominikmerdzik.com</a>
 
-🌱 ***I’m currently studying***   &nbsp;~&nbsp;Golang and vim motions  
+🌱 ***I’m currently learning***   &nbsp;~&nbsp;Golang and vim  
 
 📫 ***How to reach me***  &nbsp;~&nbsp;You can reach me best by email or through any of my social media :)
 
