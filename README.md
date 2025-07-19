@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Dominik Merdzik &nbsp;<!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">--></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00548E&size=25&repeat=false&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+App+Developer;4th+year+Computer+Science+Student;At+Lakehead+University;Born+in+Poland;Located+in+Toronto,+Canada;Forever+learning;Freelancing+Part-time;Contact+email+below;<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00548E&size=25&repeat=false&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+App+Developer;Computer+Science+Graduate;Lakehead+University;Born+in+Poland;Located+in+Toronto,+Canada;Forever+learning;Contact+email+below;<3"></a>
 </p>
 
 <h3 align="center">🤝🏻 &nbsp;Connect with Me</h3>
@@ -28,7 +28,7 @@
 
 🌱 ***I’m currently learning***   &nbsp;~&nbsp;Golang and vim  
 
-📫 ***How to reach me***  &nbsp;~&nbsp;You can reach me best by email or through any of my social media :)
+📫 ***How to reach me***  &nbsp;~&nbsp;You can reach me best by email :)
 
 
 -----
